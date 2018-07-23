@@ -64,4 +64,4 @@ Location and range
 
 ### Notes
 Due to limited  time, not all scenarios are completly covered.
-It was not possible to execute properly the tests, at funda's page there is some kind of automation prevention, whenever an automated browser is open at the page a reCAPTCHA is promped (https://imgur.com/a/Ai1j2v7), consdering that the scenarios might not run perfectly, some adjustments in runtime are needed (configure corretly element waits) but for porpose of coding skills evaluation it should be enough.
+It was not possible to execute properly the tests, at funda's page there is some kind of automation prevention, whenever an automated browser is open at the page a reCAPTCHA is promped (https://imgur.com/a/Ai1j2v7), considering that the scenarios might not run perfectly, some adjustments in runtime are needed (configure correctly element waits) but for porpose of coding skills evaluation it should be enough.
